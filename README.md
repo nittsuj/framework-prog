@@ -18,8 +18,8 @@
 
 ## Anggota Kelompok
 + 5025241234 Justin Valentino
-+  Raymond Julius Pardosi
++ 5025241268 Raymond Julius Pardosi
 + 5025241108 Indra Wahyu Tirtayasa
 + 5025241140 Brave Juliada
-+  Mario Napitupulu
++ 5025241085 Mario Napitupulu
 + 5025221107Dzuhrillah Hendraines
