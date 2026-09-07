@@ -5,7 +5,7 @@
 | Route | Method Controller | Deskripsi |
 |---|---|---|
 | `GET /` | `PageController@index` | Halaman Home — menampilkan nama & NRP |
-| `GET /about` | `PageController@about` | Halaman About — profil Departemen TI ITS |
+| `GET /about` | `PageController@about` | Halaman About — profil Departemen Informatika ITS |
 | `GET /project-idea` | `PageController@project` | Halaman Project Idea — deskripsi tema proyek AI |
 | `GET /hitung/{angka1}/{angka2}/{operasi}` | `PageController@hitung` | Kalkulator dinamis — operasi: `tambah`, `kurang`, `kali`, `bagi` |
 
