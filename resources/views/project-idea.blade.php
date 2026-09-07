@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Project</title>
+    <title>Project Idea</title>
 </head>
 <body>
-    <h1>Project</h1>
+    <h1>Project Idea</h1>
     <p>{{ $tema }}</p>
 </body>
 </html>
